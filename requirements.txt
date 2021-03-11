@@ -9,6 +9,11 @@ keras==2.4.3
 numpy==1.19.5
 librosa==0.8.0
 pydub==0.25.1
+pyyaml==5.3.1
+scipy==1.5.2
+h5py==2.10.0
+six==1.15.0
+
 
 git+https://github.com/Rapptz/discord.py
 ffmpeg
