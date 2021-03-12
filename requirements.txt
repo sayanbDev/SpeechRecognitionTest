@@ -9,6 +9,8 @@ keras==2.4.3
 numpy==1.19.5
 librosa==0.8.0
 pydub==0.25.1
+h5py==2.10.0
+wheel==0.35
 
 
 tensorflow-cpu
